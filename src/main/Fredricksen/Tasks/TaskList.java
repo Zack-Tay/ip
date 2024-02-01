@@ -1,4 +1,4 @@
-package Tasks;
+package main.Fredricksen.Tasks;
 
 import java.util.ArrayList;
 

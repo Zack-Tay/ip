@@ -1,4 +1,4 @@
-package Ui;
+package main.Fredricksen.Ui;
 
 import java.util.Scanner;
 

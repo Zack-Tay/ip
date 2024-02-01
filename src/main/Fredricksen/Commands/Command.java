@@ -1,9 +1,9 @@
-package Commands;
+package main.Fredricksen.Commands;
 
-import Tasks.TaskList;
-import Tasks.Task;
-import Ui.Ui;
-import Storages.Storage;
+import main.Fredricksen.Tasks.Task;
+import main.Fredricksen.Tasks.TaskList;
+import main.Fredricksen.Ui.Ui;
+import main.Fredricksen.Storages.Storage;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

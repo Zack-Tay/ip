@@ -1,7 +1,7 @@
-package Storages;
+package main.Fredricksen.Storages;
 
-import Tasks.Task;
-import Tasks.TaskList;
+import main.Fredricksen.Tasks.Task;
+import main.Fredricksen.Tasks.TaskList;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

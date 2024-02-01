@@ -1,7 +1,9 @@
-import Commands.Command;
-import Storages.Storage;
-import Tasks.TaskList;
-import Ui.Ui;
+package main.Fredricksen;
+
+import main.Fredricksen.Storages.Storage;
+import main.Fredricksen.Tasks.TaskList;
+import main.Fredricksen.Ui.Ui;
+import main.Fredricksen.Commands.Command;
 
 import java.io.IOException;
 
